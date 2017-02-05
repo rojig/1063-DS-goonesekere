@@ -1,6 +1,6 @@
 # 1063-DS-goonesekere
 
-![Alt text](/relative/path/to/Me.jpg?raw=true "")
+![Alt text](https://github.com/rojig/1063-DS-goonesekere/blob/master/Me.jpg "")
 
 
 >email: rojitha.g@gmail.com
